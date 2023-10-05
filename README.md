@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👨‍💻 I'm Jordan
 
-<!--
-**JordanForeman/JordanForeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dad, a reader, a creative, and (as you've probably noticed) a programmer. This is my GitHub, where I try to do things in public.
 
-Here are some ideas to get you started:
+Let's collaborate on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Node.js
+- TypeScript? Erhm...JSDoc?
+- CLI tools
+- DevOps
+- Craft cocktails 🍹
+
+<hr />
+
+<p align="center"><em>Made with 🌽 in Iowa</em></p>
